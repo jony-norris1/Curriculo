@@ -1,2 +1,2 @@
 # Curriculo
-Meu currículo.
+Meu currículo: https://meucurriculojoao.netlify.app
